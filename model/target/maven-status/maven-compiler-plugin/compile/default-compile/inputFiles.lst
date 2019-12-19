@@ -1,0 +1,12 @@
+/home/nassreddine/Desktop/test24/MockitoIn28Minutes/model/src/main/java/com/in28minutes/example/layering/model/impl/client/CollateralImpl.java
+/home/nassreddine/Desktop/test24/MockitoIn28Minutes/model/src/main/java/com/in28minutes/example/layering/model/impl/client/ClientImpl.java
+/home/nassreddine/Desktop/test24/MockitoIn28Minutes/model/src/main/java/com/in28minutes/example/layering/model/api/client/Amount.java
+/home/nassreddine/Desktop/test24/MockitoIn28Minutes/model/src/main/java/com/in28minutes/example/layering/model/api/client/Currency.java
+/home/nassreddine/Desktop/test24/MockitoIn28Minutes/model/src/main/java/com/in28minutes/example/layering/model/api/client/Client.java
+/home/nassreddine/Desktop/test24/MockitoIn28Minutes/model/src/main/java/com/in28minutes/example/layering/model/api/client/ProductType.java
+/home/nassreddine/Desktop/test24/MockitoIn28Minutes/model/src/main/java/com/in28minutes/example/layering/model/api/client/CollateralType.java
+/home/nassreddine/Desktop/test24/MockitoIn28Minutes/model/src/main/java/com/in28minutes/example/layering/model/api/client/Collateral.java
+/home/nassreddine/Desktop/test24/MockitoIn28Minutes/model/src/main/java/com/in28minutes/example/layering/model/impl/client/ProductImpl.java
+/home/nassreddine/Desktop/test24/MockitoIn28Minutes/model/src/main/java/com/in28minutes/example/layering/model/api/client/ClientType.java
+/home/nassreddine/Desktop/test24/MockitoIn28Minutes/model/src/main/java/com/in28minutes/example/layering/model/impl/client/AmountImpl.java
+/home/nassreddine/Desktop/test24/MockitoIn28Minutes/model/src/main/java/com/in28minutes/example/layering/model/api/client/Product.java
